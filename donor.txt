@@ -1,0 +1,7 @@
+#SampleID	group	group1
+Health.H042.B	normotension	normotension
+Health.H043.B	normotension	normotension
+Health.H082.B	normotension	normotension
+PIH.P132.B	preeclampsia	preeclampsia
+PIH.P136.B	preeclampsia	preeclampsia
+PIH.P149.B	preeclampsia	preeclampsia

@@ -1,0 +1,97 @@
+#SampleID	ID	Species	Bodysite	Forward_Primer_ID	Forward_Barcode	Reverse_Primer_ID	group	Reverse_Barcode	BarcodeSequence
+HN1	C1	human	placenta	IseqF1	TTGGT	IseqR6	normotension	TTCGA	forQIIME
+HN2	C2	human	placenta	IseqF2	TACGT	IseqR6	normotension	TTCGA	forQIIME
+HN3	C3	human	placenta	IseqF3	AAGGT	IseqR6	normotension	TTCGA	forQIIME
+HN4	C4	human	placenta	IseqF4	TCCTT	IseqR6	normotension	TTCGA	forQIIME
+HN5	C5	human	placenta	IseqF6	TTCGA	IseqR6	normotension	TTCGA	forQIIME
+HN6	C6	human	placenta	IseqF8	TAGGA	IseqR6	normotension	TTCGA	forQIIME
+HN7	C7	human	placenta	IseqF9	AACGA	IseqR6	normotension	TTCGA	forQIIME
+HN8	C8	human	placenta	IseqF14	TTCC	IseqR7	normotension	ACCTA	forQIIME
+HN9	C9	human	placenta	IseqF11	AAC	IseqR6	normotension	TTCGA	forQIIME
+HN10	C10	human	placenta	IseqF12	AGT	IseqR6	normotension	TTCGA	forQIIME
+HN11	C11	human	placenta	IseqF13	TGA	IseqR6	normotension	TTCGA	forQIIME
+HN12	C12	human	placenta	IseqF14	TTCC	IseqR6	normotension	TTCGA	forQIIME
+HN13	C13	human	placenta	IseqF15	TCGT	IseqR6	normotension	TTCGA	forQIIME
+HN14	C14	human	placenta	IseqF16	AGGT	IseqR6	normotension	TTCGA	forQIIME
+HN15	C15	human	placenta	IseqF1	TTGGT	IseqR7	normotension	ACCTA	forQIIME
+HN16	C16	human	placenta	IseqF2	TACGT	IseqR7	normotension	ACCTA	forQIIME
+HN17	C17	human	placenta	IseqF3	AAGGT	IseqR7	normotension	ACCTA	forQIIME
+HN18	C18	human	placenta	IseqF4	TCCTT	IseqR7	normotension	ACCTA	forQIIME
+HN19	C19	human	placenta	IseqF5	CGTTA	IseqR7	normotension	ACCTA	forQIIME
+HN20	C20	human	placenta	IseqF6	TTCGA	IseqR7	normotension	ACCTA	forQIIME
+HN21	C21	human	placenta	IseqF7	ACCTA	IseqR7	normotension	ACCTA	forQIIME
+HN22	C22	human	placenta	IseqF8	TAGGA	IseqR7	normotension	ACCTA	forQIIME
+HP1	P1	human	placenta	IseqF5	CGTTA	IseqR6	PE	TTCGA	forQIIME
+HP2	P2	human	placenta	IseqF7	ACCTA	IseqR6	PE	TTCGA	forQIIME
+HP3	P3	human	placenta	IseqF9	AACGA	IseqR7	PE	ACCTA	forQIIME
+HP4	P4	human	placenta	IseqF10	GGAAC	IseqR7	PE	ACCTA	forQIIME
+HP5	P5	human	placenta	IseqF11	AAC	IseqR7	PE	ACCTA	forQIIME
+HP6	P6	human	placenta	IseqF12	AGT	IseqR7	PE	ACCTA	forQIIME
+HP7	P7	human	placenta	IseqF13	TGA	IseqR7	PE	ACCTA	forQIIME
+HP8	P8	human	placenta	IseqF10	GGAAC	IseqR6	PE	TTCGA	forQIIME
+HP9	P9	human	placenta	IseqF15	TCGT	IseqR7	PE	ACCTA	forQIIME
+HP10	P10	human	placenta	IseqF16	AGGT	IseqR7	PE	ACCTA	forQIIME
+HP11	P11	human	placenta	IseqF1	TTGGT	IseqR38	PE	TCGTCC	forQIIME
+HP12	P12	human	placenta	IseqF2	TACGT	IseqR38	PE	TCGTCC	forQIIME
+HP13	P13	human	placenta	IseqF3	AAGGT	IseqR38	PE	TCGTCC	forQIIME
+HP14	P14	human	placenta	IseqF4	TCCTT	IseqR38	PE	TCGTCC	forQIIME
+HP15	P15	human	placenta	IseqF5	CGTTA	IseqR38	PE	TCGTCC	forQIIME
+HP16	P16	human	placenta	IseqF6	TTCGA	IseqR38	PE	TCGTCC	forQIIME
+HP17	P17	human	placenta	IseqF7	ACCTA	IseqR38	PE	TCGTCC	forQIIME
+HP18	P18	human	placenta	IseqF8	TAGGA	IseqR38	PE	TCGTCC	forQIIME
+HP19	P19	human	placenta	IseqF9	AACGA	IseqR38	PE	TCGTCC	forQIIME
+HP20	P20	human	placenta	IseqF10	GGAAC	IseqR38	PE	TCGTCC	forQIIME
+HP21	P21	human	placenta	IseqF11	AAC	IseqR38	PE	TCGTCC	forQIIME
+HP22	P22	human	placenta	IseqF12	AGT	IseqR38	PE	TCGTCC	forQIIME
+HP23	P23	human	placenta	IseqF13	TGA	IseqR38	PE	TCGTCC	forQIIME
+HP24	P24	human	placenta	IseqF14	TTCC	IseqR38	PE	TCGTCC	forQIIME
+MN1	M5	mice	placenta	IseqF16	AGGT	IseqR38	NP.FMT	TCGTCC	forQIIME
+MN2	M8	mice	placenta	IseqF1	TTGGT	IseqR9	NP.FMT	TAGGA	forQIIME
+MN3	M9	mice	placenta	IseqF2	TACGT	IseqR9	NP.FMT	TAGGA	forQIIME
+MN4	M10	mice	placenta	IseqF3	AAGGT	IseqR9	NP.FMT	TAGGA	forQIIME
+MN5	M11	mice	placenta	IseqF4	TCCTT	IseqR9	NP.FMT	TAGGA	forQIIME
+MN6	M12	mice	placenta	IseqF5	CGTTA	IseqR9	NP.FMT	TAGGA	forQIIME
+MN7	M13	mice	placenta	IseqF6	TTCGA	IseqR9	NP.FMT	TAGGA	forQIIME
+MN8	M17	mice	placenta	IseqF7	ACCTA	IseqR9	NP.FMT	TAGGA	forQIIME
+MN9	M18	mice	placenta	IseqF8	TAGGA	IseqR9	NP.FMT	TAGGA	forQIIME
+MN10	M19	mice	placenta	IseqF9	AACGA	IseqR9	NP.FMT	TAGGA	forQIIME
+MP1	M22	mice	placenta	IseqF15	TCGT	IseqR38	PE.FMT	TCGTCC	forQIIME
+MP2	M23	mice	placenta	IseqF10	GGAAC	IseqR9	PE.FMT	TAGGA	forQIIME
+MP3	M23	mice	placenta	IseqF11	AAC	IseqR9	PE.FMT	TAGGA	forQIIME
+MP4	M24	mice	placenta	IseqF12	AGT	IseqR9	PE.FMT	TAGGA	forQIIME
+MP5	M26	mice	placenta	IseqF13	TGA	IseqR9	PE.FMT	TAGGA	forQIIME
+MP6	M26	mice	placenta	IseqF14	TTCC	IseqR9	PE.FMT	TAGGA	forQIIME
+MP7	M35	mice	placenta	IseqF16	AGGT	IseqR9	PE.FMT	TAGGA	forQIIME
+MP8	M38	mice	placenta	IseqF1	TTGGT	IseqR10	PE.FMT	AGTAC	forQIIME
+MP9	M39	mice	placenta	IseqF2	TACGT	IseqR10	PE.FMT	AGTAC	forQIIME
+MP10	M40	mice	placenta	IseqF3	AAGGT	IseqR10	PE.FMT	AGTAC	forQIIME
+MP11	M41	mice	placenta	IseqF4	TCCTT	IseqR10	PE.FMT	AGTAC	forQIIME
+MC1	M46	mice	placenta	IseqF5	CGTTA	IseqR10	control	AGTAC	forQIIME
+MC2	M47	mice	placenta	IseqF6	TTCGA	IseqR10	control	AGTAC	forQIIME
+MC3	M48	mice	placenta	IseqF7	ACCTA	IseqR10	control	AGTAC	forQIIME
+MC4	M50	mice	placenta	IseqF8	TAGGA	IseqR10	control	AGTAC	forQIIME
+MC5	M52	mice	placenta	IseqF9	AACGA	IseqR10	control	AGTAC	forQIIME
+MC6	M54	mice	placenta	IseqF10	GGAAC	IseqR10	control	AGTAC	forQIIME
+MC7	M55	mice	placenta	IseqF11	AAC	IseqR10	control	AGTAC	forQIIME
+MC8	M57	mice	placenta	IseqF12	AGT	IseqR10	control	AGTAC	forQIIME
+MC9	M62	mice	placenta	IseqF13	TGA	IseqR10	control	AGTAC	forQIIME
+MC10	M63	mice	placenta	IseqF15	TCGT	IseqR9	control	TAGGA	forQIIME
+SWAB1	S1	SWAB	SWAB	IseqF14	TTCC	IseqR10	Swab.1	AGTAC	
+SWAB2	S2	SWAB	SWAB	IseqF15	TCGT	IseqR10	Swab.1	AGTAC	
+SWAB3	S3	SWAB	SWAB	IseqF16	AGGT	IseqR10	Swab.1	AGTAC	
+SWAB4	S4	SWAB	SWAB	IseqF1	TTGGT	IseqR11	Swab.1	AAC	
+SWAB5	S5	SWAB	SWAB	IseqF2	TACGT	IseqR11	Swab.1	AAC	
+SWAB6	S6	SWAB	SWAB	IseqF3	AAGGT	IseqR11	Swab.1	AAC	
+SWAB7	S7	SWAB	SWAB	IseqF4	TCCTT	IseqR11	Swab.1	AAC	
+SWAB8	S8	SWAB	SWAB	IseqF5	CGTTA	IseqR11	Swab.1	AAC	
+SWAB9	S9	SWAB	SWAB	IseqF6	TTCGA	IseqR11	Swab.1	AAC	
+SWAB10	S11	SWAB	SWAB	IseqF7	ACCTA	IseqR11	Swab.2	AAC	
+SWAB11	S12	SWAB	SWAB	IseqF8	TAGGA	IseqR11	Swab.2	AAC	
+SWAB12	S13	SWAB	SWAB	IseqF9	AACGA	IseqR11	Swab.2	AAC	
+SWAB13	S14	SWAB	SWAB	IseqF10	GGAAC	IseqR11	Swab.2	AAC	
+HO1	H1	HO	HO	IseqF11	AAC	IseqR11	H2O.1	AAC	
+HO2	H2	HO	HO	IseqF12	AGT	IseqR11	H2O.1	AAC	
+HO3	H3	HO	HO	IseqF13	TGA	IseqR11	H2O.1	AAC	
+HO4	H4	HO	HO	IseqF14	TTCC	IseqR11	H2O.2	AAC	
+HO5	H5	HO	HO	IseqF15	TCGT	IseqR11	H2O.2	AAC	
+HO6	H6	HO	HO	IseqF16	AGGT	IseqR11	H2O.2	AAC	
