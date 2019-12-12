@@ -137,7 +137,7 @@ ggsave(filename = "adiv.chao1.pdf",plot = p.ch,width = 1,height = 1.2)
 
 ########------------------
 ## alpha diversity of subgroups 
-all <- read.table("PE.subgroups.taxa.for.txt",header = T,row.names = 1,sep = "\t",comment.char = "")
+all <- read.table("PE.subgroups.taxa.txt",header = T,row.names = 1,sep = "\t",comment.char = "")
 m <- merge(adiv,all,by = "row.names")
 wilcox.test(m$shannon~m$Statue3)
 pd <- position_dodge(0.5)
@@ -211,7 +211,7 @@ ggsave(filename = "adiv.chao1.pdf",plot = p.ch,width = 1,height = 1.2)
 # Correlation
 ####---------------------------
 ### correlation of all samples
-sid <- intersect(colnames(all_genus),rownames(ind))
+sid <- intersect(colnames(all_genus),rownames(map.all))
 all1 <- t(all_genus[c("Clostridium","Dialister","Veillonella","Fusobacterium",
                       "Lachnospira","Akkermansia","Faecalibacterium"),sid])
 all_ind <- map.all[sid,c("sbp","dbp","proteinuria","edema","ALT","AST","Cr","TT","ALB","TP","ATIII","neoweight","hemorrhage")]
@@ -286,7 +286,6 @@ tomakeplot(dta = m,value = "Dialister",variable = "Statue2",c=4)
 tomakeplot(dta = m,value = "Veillonella",variable = "Statue2",c=1)
 tomakeplot(dta = m,value = "Fusobacterium",variable = "Statue2",c=0.2)
 tomakeplot(dta = m,value = "Coprococcus",variable = "Statue2",c=5)
-tomakeplot(dta = m,value = "Lactococcus",variable = "Statue2",c=0.1)
 tomakeplot(dta = m,value = "Lachnospira",variable = "Statue2",c=3)
 tomakeplot(dta = m,value = "Akkermansia",variable = "Statue2",c=0.5)
 tomakeplot(dta = m,value = "Faecalibacterium",variable = "Statue2",c=10)
